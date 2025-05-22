@@ -33,8 +33,8 @@ Review and launch with a key pair (for future login).
 Verify the status of both instances in the EC2 dashboard.
 Connect to the Linux instance using SSH.
 Connect to the Windows instance using RDP.
-### REG NUMBER:212223220079
-### NAME:PRASANNA I
+### REG NUMBER:212223040036
+### NAME:DHARANI DHARAN K
 ## OUTPUT
 # S3 Bucket
 ![image](https://github.com/user-attachments/assets/841d77ab-4828-46cb-97fc-04ceb06774c2)
